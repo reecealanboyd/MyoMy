@@ -646,7 +646,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &188640516
 Transform:
@@ -10112,7 +10112,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 2100000, guid: 42addd1b32355f94faec6b525df89616, type: 2}
+  - {fileID: 2100000, guid: 2d171d73514534ac1973a2e3b3f29941, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
@@ -10377,7 +10377,7 @@ MonoBehaviour:
   m_HideScript: 1
   m_Position: {x: 50, y: 30}
   m_Transitions: []
-  m_CachedInstanceID: 14696
+  m_CachedInstanceID: 13658
   m_Description: 
   m_IgnoreTimeScale: 0
   m_ResetStatusOnDisable: 1
@@ -10513,7 +10513,7 @@ MonoBehaviour:
   m_HideScript: 1
   m_Position: {x: 0, y: 0}
   m_Transitions: []
-  m_CachedInstanceID: 14700
+  m_CachedInstanceID: 13662
   m_Description: 
   m_EnabledState: {fileID: 0}
   m_LastEnabledState: {fileID: 0}
